@@ -1,0 +1,3 @@
+[submodule "react-performance-way"]
+	path = react-performance-way
+	url = git@github.com:migace/react-performance-way-presentation.git
