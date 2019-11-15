@@ -1,3 +1,6 @@
 [submodule "react-performance-way"]
 	path = react-performance-way
 	url = git@github.com:migace/react-performance-way-presentation.git
+[submodule "design-patterns-learning"]
+	path = design-patterns-learning
+	url = git@github.com:migace/design-patterns-learning.git
